@@ -1,0 +1,11 @@
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları**
+- ilk eleman olan 7'yi root olarak belirleyelim
+- 5 root'un solunda bulunur
+- 1 root'un solunda 5'in solunda bulunur
+- 8 root'un sağında bulunur
+- 3 root'un solunda 5'in solunda 1'in sağında bulunur
+- 6 root'un solunda 5'in sağında bulunur
+- 0 root'un solunda 5'in solunda 1'in solunda bulunur
+- 9 root'un sağında 8'in sağında bulunur
+- 4 root'un solunda 5'in solunda 1'in sağında 3'ün sağında bulunur
+- 2 root'un solunda 5'in solunda 1'in sağında 3'ün solunda bulunur
